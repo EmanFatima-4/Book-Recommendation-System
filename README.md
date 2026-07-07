@@ -29,6 +29,11 @@ python -m streamlit run app.py
 
 http://localhost:8501
 
+## Deploy
+
+Deploy your project on streamlit
+
+
 ## Live Preview
 
 https://bookflix-system.streamlit.app/
