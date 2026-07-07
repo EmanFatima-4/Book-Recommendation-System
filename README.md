@@ -29,6 +29,10 @@ python -m streamlit run app.py
 
 http://localhost:8501
 
+## Live Preview
+
+https://bookflix-system.streamlit.app/
+
 ## 👨‍💻 Author
 
 Eman Fatima
