@@ -193,7 +193,7 @@ for i, row in filtered.iterrows():
     with cols[i % 3]:
         st.markdown("<div class='card'>", unsafe_allow_html=True)
 
-        st.image(row["Image"], use_container_width=True)
+       st.image(row["Image"], width="stretch")
 
         st.markdown(
     f"""
