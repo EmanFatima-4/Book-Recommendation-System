@@ -4,7 +4,7 @@ A Netflix-inspired book recommendation application built using Python and Stream
 
 <blockquote>
   🏢 <strong>Internship Project:</strong> This project was developed during my internship at
-  <a href="https://decodelabs.org/" target="_blank">Decode Labs</a>.
+  <a href="https://decodelabs.com/" target="_blank">Decode Labs</a>.
 </blockquote>
 
 ## ✨ Features
