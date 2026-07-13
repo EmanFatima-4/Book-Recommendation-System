@@ -38,11 +38,6 @@ http://localhost:8501
 
 Deploy your project on streamlit
 
-
-## Live Preview
-
-https://bookflix-system.streamlit.app/
-
 ## 👨‍💻 Author
 
 Eman Fatima
