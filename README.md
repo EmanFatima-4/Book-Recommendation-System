@@ -2,6 +2,11 @@
 
 A Netflix-inspired book recommendation application built using Python and Streamlit.
 
+<blockquote>
+  🏢 <strong>Internship Project:</strong> This project was developed during my internship at
+  <a href="https://decodelabs.org/" target="_blank">Decode Labs</a>.
+</blockquote>
+
 ## ✨ Features
 
 - 🎬 Netflix-style dark UI
